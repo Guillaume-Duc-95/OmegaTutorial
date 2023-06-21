@@ -1,0 +1,37 @@
+Welcome to OmegaTutorial!
+
+You are currently reading this in the editor window. It contains the text you want to translate.
+
+To expand and see the original localisation and insert a new localisation, you can simply double click on one of them.
+
+To move to the next localisation, you just have to press "Enter".
+
+To move to the previous localisation, you can press "Ctrl" + "Enter"
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Try to reach this localisation and replace it with a text of your choice and then move to the next segment.
+
+Congratulation, you just have translated your first segment. As you can see, the segment in bold font are the localisations that have not yet been translated.
+
+Sometimes, it might happen that some segments are already translated. You can jump to the next unstranslated segment by pressing "Ctrl" + U
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Congratulation you managed to finish this tutorial about the movement inside the editor winodw!

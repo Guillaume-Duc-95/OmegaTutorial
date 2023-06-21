@@ -1,0 +1,14 @@
+21/06/23 00:36
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	      22	  147	                    741	                   878	     1	
+Remaining:       	      16	  135	                    682	                   808	     1	
+Unique:          	      14	  147	                    733	                   870	     1	
+Unique Remaining:	      12	  135	                    678	                   804	     1	
+
+
+Individual File Statistics:
+
+File Name      	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Move_Around.txt	            22	                16	             14	                       12	        147	            135	         147	                   135	                          741	                              682	                           733	                                     678	                         878	                             808	                          870	                                    804	
